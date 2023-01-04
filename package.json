@@ -1,0 +1,15 @@
+{
+  "name": "libraryfrompluto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "firebase deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nowell Strite",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "firebase-tools": "^11.19.0"
+  }
+}
