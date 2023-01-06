@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "exit 0",
     "deploy": "firebase deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
